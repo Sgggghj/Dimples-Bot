@@ -63,7 +63,7 @@ Install this tool first before running the script
 
 ```bash
 git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+cd Evans-MultiDevice
 npm install
 npm update
 ```
@@ -155,7 +155,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`]
+* [`Justevans`]
 * [`My parents`]
 * [`All Friends`]
 * [`All Contributors`]
